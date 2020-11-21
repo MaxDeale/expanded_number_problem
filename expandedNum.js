@@ -18,6 +18,7 @@ function expanded_form(num) {
   //USE A STRING METHOD TO TAKE AWAY LAST 2 CHARS
   finalStr = finalStr.substring(0, finalStr.length - 2);
   console.log(finalStr);
+  return finalStr;
 }
 
 expanded_form(1450);
