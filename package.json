@@ -1,0 +1,14 @@
+{
+  "name": "expanded_num_problem_max_deale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "expandedNum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
